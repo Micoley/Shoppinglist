@@ -21,7 +21,9 @@
 ## Bekannte Zitate
 
 > "Veni, Vidi, Vici"
+
 > Ich kam sah und siegte.
 
 > "Alea iacta est"
+
 > Die Würfel sind gefallen.
