@@ -28,4 +28,4 @@
 
 > Die Würfel sind gefallen.
 
-[Villingen Luftbild](Villingen_luftbild.jpg/ "Das ist Villingen")
+[Villingen Luftbild](Villingen_luftbild.jpg "Das ist Villingen")
